@@ -20,3 +20,6 @@
 	path = ikvm
 	url = https://github.com/aufalau/ikvm-fork.git
 	branch = master-signed
+[submodule "monodevelop"]
+	path = monodevelop
+	url = https://github.com/aufalau/monodevelop.git
