@@ -18,4 +18,5 @@
 	url = https://github.com/aufalau/MonoDevelop.Debugger.Soft.Unity.git
 [submodule "ikvm"]
 	path = ikvm
-	url = https://github.com/mono/ikvm-fork.git
+	url = https://github.com/aufalau/ikvm-fork.git
+	branch = master-signed
