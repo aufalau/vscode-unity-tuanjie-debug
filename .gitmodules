@@ -10,3 +10,6 @@
 [submodule "nrefactory"]
 	path = nrefactory
 	url = https://github.com/aufalau/nrefactory
+[submodule "MonoDevelop.Debugger.Soft.Unity-Tuanjie"]
+	path = MonoDevelop.Debugger.Soft.Unity-Tuanjie
+	url = https://github.com/aufalau/MonoDevelop.Debugger.Soft.Unity-Tuanjie.git
