@@ -4,6 +4,9 @@
 [submodule "debugger-libs"]
 	path = debugger-libs
 	url = https://github.com/aufalau/debugger-libs.git
+[submodule "MonoDevelop.Debugger.Soft.Unity-Tuanjie"]
+	path = MonoDevelop.Debugger.Soft.Unity-Tuanjie
+	url = https://github.com/aufalau/MonoDevelop.Debugger.Soft.Unity-Tuanjies.git
 [submodule "External/cecil"]
 	path = External/cecil
 	url = https://github.com/aufalau/cecil.git
