@@ -16,3 +16,6 @@
 [submodule "MonoDevelop.Debugger.Soft.Unity"]
 	path = MonoDevelop.Debugger.Soft.Unity
 	url = https://github.com/aufalau/MonoDevelop.Debugger.Soft.Unity.git
+[submodule "ikvm"]
+	path = ikvm
+	url = https://github.com/mono/ikvm-fork.git
